@@ -1,2 +1,2 @@
 # iteco-inno.ru
-Tests for iteco
+UI tests for iteco (selenide)
